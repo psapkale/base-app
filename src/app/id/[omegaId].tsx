@@ -12,4 +12,4 @@ const IdHandler = () => {
   );
 };
 
-export default IdHandler
+export default IdHandler;
